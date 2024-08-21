@@ -9,6 +9,20 @@
 The Campaign Planner is built to be a supportive and informative resource, guiding users through the complexities of campaign planning with a professional tone. It asks users relevant questions in a step-by-step process, ensuring that every detail is considered and addressed. Whether you are an experienced campaign manager or new to the process, this GPT helps you feel confident in your planning, offering best practices and tools that enhance your campaign's chances of success.
 
 #
+### Campaign Example Types
+
+Marketing Campaign
+Political Campaign
+Social Media Campaign
+Fundraising Campaign
+Awareness Campaign
+Product Launch Campaign
+Event Promotion Campaign
+Email Marketing Campaign
+Advocacy Campaign
+Grassroots Campaign
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
