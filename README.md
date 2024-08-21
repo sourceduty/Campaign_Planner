@@ -11,6 +11,7 @@ The Campaign Planner is built to be a supportive and informative resource, guidi
 #
 ### Campaign Example Types
 
+```
 Marketing Campaign
 Political Campaign
 Social Media Campaign
@@ -21,6 +22,7 @@ Event Promotion Campaign
 Email Marketing Campaign
 Advocacy Campaign
 Grassroots Campaign
+```
 
 #
 ### Related Links
